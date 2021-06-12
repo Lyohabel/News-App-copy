@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "//lyohabel.github.io/News-App-copy/static/css/main.8bf516ad.chunk.css",
-    "main.js": "//lyohabel.github.io/News-App-copy/static/js/main.57478269.chunk.js",
-    "main.js.map": "//lyohabel.github.io/News-App-copy/static/js/main.57478269.chunk.js.map",
-    "runtime-main.js": "//lyohabel.github.io/News-App-copy/static/js/runtime-main.8d97362d.js",
-    "runtime-main.js.map": "//lyohabel.github.io/News-App-copy/static/js/runtime-main.8d97362d.js.map",
-    "static/js/2.97773b9c.chunk.js": "//lyohabel.github.io/News-App-copy/static/js/2.97773b9c.chunk.js",
-    "static/js/2.97773b9c.chunk.js.map": "//lyohabel.github.io/News-App-copy/static/js/2.97773b9c.chunk.js.map",
-    "index.html": "//lyohabel.github.io/News-App-copy/index.html",
-    "static/css/main.8bf516ad.chunk.css.map": "//lyohabel.github.io/News-App-copy/static/css/main.8bf516ad.chunk.css.map",
-    "static/js/2.97773b9c.chunk.js.LICENSE.txt": "//lyohabel.github.io/News-App-copy/static/js/2.97773b9c.chunk.js.LICENSE.txt",
-    "static/media/Footer.module.css": "//lyohabel.github.io/News-App-copy/static/media/newspaper.fd53b46b.png"
+    "main.css": "/News-App-copy/static/css/main.ac55cf99.chunk.css",
+    "main.js": "/News-App-copy/static/js/main.57478269.chunk.js",
+    "main.js.map": "/News-App-copy/static/js/main.57478269.chunk.js.map",
+    "runtime-main.js": "/News-App-copy/static/js/runtime-main.9c751dfa.js",
+    "runtime-main.js.map": "/News-App-copy/static/js/runtime-main.9c751dfa.js.map",
+    "static/js/2.97773b9c.chunk.js": "/News-App-copy/static/js/2.97773b9c.chunk.js",
+    "static/js/2.97773b9c.chunk.js.map": "/News-App-copy/static/js/2.97773b9c.chunk.js.map",
+    "index.html": "/News-App-copy/index.html",
+    "static/css/main.ac55cf99.chunk.css.map": "/News-App-copy/static/css/main.ac55cf99.chunk.css.map",
+    "static/js/2.97773b9c.chunk.js.LICENSE.txt": "/News-App-copy/static/js/2.97773b9c.chunk.js.LICENSE.txt",
+    "static/media/Footer.module.css": "/News-App-copy/static/media/newspaper.fd53b46b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8d97362d.js",
+    "static/js/runtime-main.9c751dfa.js",
     "static/js/2.97773b9c.chunk.js",
-    "static/css/main.8bf516ad.chunk.css",
+    "static/css/main.ac55cf99.chunk.css",
     "static/js/main.57478269.chunk.js"
   ]
 }
