@@ -1,0 +1,115 @@
+.search {
+   padding: 20px 0;   
+   background-color: rgba(211, 141, 61, 0.3);
+}
+
+.searchArticle {
+   padding: 0 20px;
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;  
+}
+
+.searchTitle {
+   display: block;
+   background-color: rgba(252, 248, 244, 0.8);;
+   padding: 7px 25px;
+   border-radius: 20px;
+   margin: 0;
+}
+
+.searchArticle input {
+   padding: 2px 20px;
+    width: 60%;
+    height: 50px;
+    border: 1px solid rgba(226, 222, 222, 0.5);
+    border-radius: 30px;    
+    font-weight: 500;
+    font-size: 24px;    
+    color: #473889;
+    background-image: url("../../../Images/search.png");
+    background-repeat: no-repeat;
+    background-position: 97% 50%;
+}
+
+.searchArticle input::placeholder {
+   font-weight: 600;
+   font-size: 22px;    
+   color: #aca1e4;
+}
+
+.searchLink {  
+   max-width: 350px;   
+   height: 45px;
+   display: flex;
+   align-items: center;
+   background-color: rgb(241, 250, 190);
+   margin-top: 10px;
+   border-radius: 20px;
+   visibility: hidden;
+}
+
+.searchNavLink {
+   font-size: 20px;
+   font-style: italic;
+   width: calc(100% - 15px);   
+   padding-left: 15px; 
+   text-decoration: none;   
+   color: #000;
+   visibility: inherit;
+   cursor: pointer;
+}
+
+.searchNavLink > span {      
+   font-weight: 600;
+   color: blue;
+   visibility: inherit;
+}
+
+.searchLink button {
+   cursor: pointer;
+   padding: 0 9px;
+   border-radius: 50%;
+   margin-right: 15px;
+   background-color: #fff;
+   border: 0;
+   color: crimson;
+   font-weight: 700;
+   font-size: 24px;   
+   transform: rotate(45deg);
+}
+
+.searchLink button:hover {
+   background-color: rgb(238, 210, 210);  
+}
+
+.back {
+   cursor: pointer;
+   padding: 5px 15px;
+   margin-right: 20px;
+   border-radius: 20px;  
+   background-color: rgb(197, 243, 228);
+   border: 0;
+   color: crimson;
+   font-weight: 600;
+   font-size: 20px;
+   position: relative;
+   top: -50px;
+   visibility:hidden;
+}
+
+.yes {
+   cursor: pointer;
+   padding: 5px 15px;
+   border-radius: 20px;  
+   background-color: rgb(201, 65, 65);
+   color: #fff;
+   border: 0;   
+   font-weight: 600;
+   font-size: 20px;
+   position: relative;
+   top: -50px;
+   visibility:hidden;
+}
+
+

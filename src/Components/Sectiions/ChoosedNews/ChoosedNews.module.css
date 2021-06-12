@@ -1,0 +1,74 @@
+.articles {
+    background-color: rgb(245, 226, 244);
+}
+
+.newsList {
+    height: auto;
+    padding: 10px 0;
+}
+
+.myMasonryGrid {
+    display: -webkit-box; /* Not needed if autoprefixing */
+    display: -ms-flexbox; /* Not needed if autoprefixing */
+    display: flex;
+    margin-left: -10px; /* gutter size offset */
+    width: auto;
+  }
+  .myMasonryGridColumn {
+    padding-left: 10px; /* gutter size */
+    background-clip: padding-box;
+  }
+
+.newsListItem {
+    display: block;  
+    /* min-width: calc(33% - 35px); */
+    height: auto;
+    list-style: none;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    background-color: rgba(243, 237, 224, 0.5);
+    border: 5px solid #fff;    
+}
+
+.marker {
+    color: rgb(12, 102, 102);
+    border: 0;
+    font-size: 42px;
+    background: none;   
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    cursor: pointer;
+    float: left;
+    margin-right: 10px;
+}
+
+.marker:hover {
+   color: crimson; 
+}
+
+h2, p {
+    margin-bottom: 10px;
+}
+
+p {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.link {
+    display: block;
+    margin: 10px;
+    font-weight: 600;
+    font-style: italic;
+    letter-spacing: 0.5px;
+    color: rgb(238, 70, 70);
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
